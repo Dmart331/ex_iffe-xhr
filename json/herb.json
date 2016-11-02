@@ -1,0 +1,23 @@
+{
+  "herbevores": [{
+    "Type": "Dinosaur",
+    "name": "Stegasoraus",
+    "price": "400333.99"
+  }, {
+    "Type": "Mammal",
+    "name": "Deer",
+    "price": "40.99"
+  }, {
+    "Type": "Mammal",
+    "name": "Cow",
+    "price": "402.99"
+  }, {
+    "Type": "Worm",
+    "name": "Worm",
+    "price": "4.99"
+  }, {
+    "Type": "Fish",
+    "name": "goldfish",
+    "price": "3.99"
+  }]
+}

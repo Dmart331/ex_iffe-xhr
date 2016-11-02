@@ -1,0 +1,23 @@
+{
+  "carnivores": [{
+    "Type": "Big Cat",
+    "name": "Tiger",
+    "price": "400.99"
+  }, {
+    "Type": "Bird of Prey",
+    "name": "Eagle",
+    "price": "401.99"
+  }, {
+    "Type": "Reptile",
+    "name": "Cobra",
+    "price": "402.99"
+  }, {
+    "Type": "Bird of Prey",
+    "name": "Pelican",
+    "price": "40.99"
+  }, {
+    "Type": "Fish",
+    "name": "Shark",
+    "price": "4003.99"
+  }]
+}
